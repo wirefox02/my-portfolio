@@ -72,7 +72,7 @@ header .menu-icon {
 }
 
 .top-wrapper {
-  background-image: url("../img/top.png");
+  background-image: url(top.png);
   background-size: cover;
   color: white;
   padding: 180px 0 100px;
